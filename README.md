@@ -3,7 +3,7 @@ https://github.com/FelixKratz/SketchyBar
 
 ![alt text](https://github.com/ychie/sketchybar/blob/main/images/Screenshot%202025-01-24%20at%2001.42.05.png?raw=true)
 
-# Instalation
+# Installation
 
 Add files from this repository to $HOME/.config/sketchybar and then install SbarLua with sketchybar itself.
 
