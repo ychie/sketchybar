@@ -1,7 +1,7 @@
 # Sketchybar config
 https://github.com/FelixKratz/SketchyBar
 
-![alt text](https://github.com/ychie/sketchybar/blob/main/images/Screenshot%202025-01-24%20at%2001.27.34.png?raw=true)
+![alt text](https://github.com/ychie/sketchybar/blob/main/images/Screenshot%202025-01-24%20at%2001.42.05.png?raw=true)
 
 # Instalation
 
