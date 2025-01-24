@@ -16,3 +16,11 @@ brew tap FelixKratz/formulae
 brew install sketchybar
 brew services start sketchybar
 ```
+
+# Font
+
+By default this config uses 'Iosevka Nerd Font'. You can install using brew with the command bellow. Otherwise you can change it to any other you like in resources/settings.lua. Without it you will not have all the icons displayed.
+
+```
+brew install --cask font-iosevka-nerd-font
+```
