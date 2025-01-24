@@ -17,10 +17,10 @@ power:subscribe({"routine", "power_source_change", "system_woke"}, function()
 		local charging, _, _ = info:find("AC Power")
 
 		power:set({
---			drawing = not charging
+			drawing = not charging
 		})
 
---		if charging then return end
+		if charging then return end
 
 		local found, _, charge = info:find("(%d+)%%")
 		local label = "?%"
