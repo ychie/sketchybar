@@ -1,4 +1,4 @@
-sbar.exec("killall sketchybar_events >/dev/null; /Users/ychie/.config/sketchybar/helpers/events/bin/sketchybar_events")
+sbar.exec("killall sketchybar_events >/dev/null; $HOME/.config/sketchybar/helpers/events/bin/sketchybar_events")
 
 -- left
 require("items.apple")
